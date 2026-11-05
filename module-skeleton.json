@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-reservations-react-inertia",
+  "capabilityKey": "planned:ecommerce:reservations",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-reservations-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/reservations.md",
+  "presentationPlan": "projects/ecommerce/react/reservations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
